@@ -1,0 +1,6 @@
+line: logback-1.2
+repository: patch-logback
+members:
+  - ch.qos.logback:logback-access
+  - ch.qos.logback:logback-classic
+  - ch.qos.logback:logback-core
