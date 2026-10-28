@@ -1,6 +1,8 @@
+# Licensed under the Apache License, Version 2.0: https://www.apache.org/licenses/LICENSE-2.0
 line: logback-1.2
 repository: patch-logback
 members:
   - ch.qos.logback:logback-access
   - ch.qos.logback:logback-classic
   - ch.qos.logback:logback-core
+  - ch.qos.logback:logback-parent
